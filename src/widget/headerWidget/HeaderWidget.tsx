@@ -11,6 +11,9 @@ return (
             <NavLink to='/' className={styles.logo}>
 						<img src='/logo.png' alt='logo' />
 				</NavLink>
+                <label className={styles.searchLabel} htmlFor='search'>
+                    
+                </label>
             </div>
         </div>   
     </header>
